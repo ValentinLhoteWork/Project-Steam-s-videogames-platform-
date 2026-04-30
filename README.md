@@ -46,9 +46,7 @@ Platform analysis
 
     Do certain genres tend to be preferentially available on certain platforms?
 
-You're free to follow these guidelines, or to choose a different angle of analysis, as long as your analysis reveals relevant and useful information. 🤓
-Scope of this project 🖼️
 
-You'll have to use Databricks and PySpark to conduct this EDA. Particularly, you'll have to use Databrick's visualisation tool to create the visualizations.
+I'll have to use Databricks and PySpark to conduct this EDA. Particularly, I'll have to use Databrick's visualisation tool to create the visualizations.
 
 The dataset is available in our S3 bucket at the following url: s3://full-stack-bigdata-datasets/Big_Data/Project_Steam/steam_game_output.json.
