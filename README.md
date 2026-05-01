@@ -4,7 +4,9 @@ Link to the project's dashboard through DataBricks : https://dbc-53826c0b-70be.c
 
 
 Link to project's notebooks :
--03_platform_analysis : https://dbc-53826c0b-70be.cloud.databricks.com/editor/notebooks/2455365807268777?o=967937180409238
+- 01_macro_analysis : https://dbc-53826c0b-70be.cloud.databricks.com/editor/notebooks/2455365807268775?o=967937180409238
+- 02_genres_analysis : https://dbc-53826c0b-70be.cloud.databricks.com/editor/notebooks/2455365807268776?o=967937180409238
+- 03_platform_analysis : https://dbc-53826c0b-70be.cloud.databricks.com/editor/notebooks/2455365807268777?o=967937180409238
 
 
 # Project : Steam's videogames platform 👾
