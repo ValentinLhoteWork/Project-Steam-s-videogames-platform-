@@ -1,3 +1,9 @@
+
+
+Link to the project's dashboard through DataBricks : https://dbc-53826c0b-70be.cloud.databricks.com/dashboardsv3/01f144c11a1f1b8ea44dbecb61435096/published?o=967937180409238
+
+
+
 # Project : Steam's videogames platform 👾
 ## Steam's videogames platform 👾
 
