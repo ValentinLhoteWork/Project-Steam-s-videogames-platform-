@@ -15,7 +15,7 @@ Link to the project's dashboard through DataBricks : https://dbc-53826c0b-70be.c
 <img width="2277" height="1358" alt="General Analysis" src="https://github.com/user-attachments/assets/2ebb71ed-2532-4b7c-8707-bcf3ca326d3a" />
 <img width="2266" height="1352" alt="General_analysis2" src="https://github.com/user-attachments/assets/7fca94a2-3530-4a98-9281-ac59131bc155" />
 
-### Genre analysis
+### Genres analysis
 
 <img width="2273" height="1292" alt="Genre_analysis" src="https://github.com/user-attachments/assets/ba491a84-cfec-4e98-9154-76c856a59255" />
 
