@@ -3,10 +3,27 @@
 Link to the project's dashboard through DataBricks : https://dbc-53826c0b-70be.cloud.databricks.com/dashboardsv3/01f144c11a1f1b8ea44dbecb61435096/published?o=967937180409238
 
 
-Link to project's notebooks :
+### Link to project's notebooks :
 - 01_macro_analysis : https://dbc-53826c0b-70be.cloud.databricks.com/editor/notebooks/2455365807268775?o=967937180409238
 - 02_genres_analysis : https://dbc-53826c0b-70be.cloud.databricks.com/editor/notebooks/2455365807268776?o=967937180409238
 - 03_platform_analysis : https://dbc-53826c0b-70be.cloud.databricks.com/editor/notebooks/2455365807268777?o=967937180409238
+
+## Databricks vizualization tool:
+
+### General Analysis
+
+<img width="2277" height="1358" alt="General Analysis" src="https://github.com/user-attachments/assets/2ebb71ed-2532-4b7c-8707-bcf3ca326d3a" />
+<img width="2266" height="1352" alt="General_analysis2" src="https://github.com/user-attachments/assets/7fca94a2-3530-4a98-9281-ac59131bc155" />
+
+### Genre analysis
+
+<img width="2273" height="1292" alt="Genre_analysis" src="https://github.com/user-attachments/assets/ba491a84-cfec-4e98-9154-76c856a59255" />
+
+### Platform Analysis
+
+<img width="2281" height="761" alt="Platform_Analysis" src="https://github.com/user-attachments/assets/4748d8fe-272c-493c-832d-9f93e1077b23" />
+
+
 
 
 # Project : Steam's videogames platform 👾
